@@ -9,6 +9,7 @@ public class Circle extends Shape {
         this.diameter = diameter;
     }
 
+    @Override
     public Type getType() {
         return Type.CIRCLE;
     }

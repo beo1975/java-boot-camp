@@ -9,6 +9,7 @@ public class Square extends Shape {
         this.sideLength = sideLength;
     }
 
+    @Override
     public Type getType() {
         return Type.SQUARE;
     }

@@ -5,5 +5,5 @@ public enum Type {
     SHAPE,
     CIRCLE,
     SQUARE,
-
+    PENTAGON;
 }
